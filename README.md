@@ -77,5 +77,5 @@ The linker is an important tool in compilation that performs two tasks: resoluti
 
 ## Author
 
-- [`@KArimaTouhami`]() | Software Engineer Student
+- [`@KarimaTouhami`]() | Software Engineer Student
 ---
