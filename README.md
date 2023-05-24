@@ -73,9 +73,4 @@ The linker is an important tool in compilation that performs two tasks: resoluti
 - [Heap vs Stack](./heap_stack) : Code snippets and notes on what is a heap, a stack and how they work.
 - [Simple Shell Concepts](./simple_shell_concepts) : Code snippets and notes on the concept for the simple shell project.
 
----
 
-## Author
-
-- [`@KarimaTouhami`]() | Software Engineer Student
----
