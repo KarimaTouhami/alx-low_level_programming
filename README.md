@@ -30,6 +30,9 @@
 - [0x05](./0x05-pointers_arrays_strings) : Pointers, arrays and strings.
 - [0x06](./0x06-pointers_arrays_strings) : More pointers, arrays and strings.
 - [0x07](./0x07-pointers_arrays_strings) : Even more pointers, arrays and strings.
+- [0x08](./0x08-recursion) : Recursion.
+- [0x09](./0x09-static_libraries) : Static libraries.
+- [0x0A](./0x0A-argc_argv) : Argc, argv.
 ----
 
 ## C Program Compilation
@@ -61,16 +64,3 @@ In the third stage of compilation, an assembler is used to convert assembly lang
 
 ### Step 4: Linking
 The linker is an important tool in compilation that performs two tasks: resolution and relocation of symbols. It arranges the pieces of object code so that functions in one piece can successfully call functions in others. The linker also adds parts that contain the instructions for the library functions used by the program. The result of this stage is the executable file. usually `a.out` if `-o` is not specified.
-
----
-
-## Resource
-
-- C [Books and PDF's](./references) to check out and use as a reference.
-- [Pointers and Arrays](./PointerArrays) : Code snippets and notes on Pointers and Arrays from Concept Page.
-- [Data Structures](./DataStructures) : Code snippets and notes on data structures.
-- [Dynamic Memory Allocation](./dynamic_memory_alloc) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
-- [Heap vs Stack](./heap_stack) : Code snippets and notes on what is a heap, a stack and how they work.
-- [Simple Shell Concepts](./simple_shell_concepts) : Code snippets and notes on the concept for the simple shell project.
-
-
