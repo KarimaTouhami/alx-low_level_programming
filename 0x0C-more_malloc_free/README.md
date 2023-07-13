@@ -10,10 +10,6 @@
 
 ---
 
-## Learning Objectives
-- [How to use the `exit` function](#how-to-use-the-exit-function)
-- [What are the functions `calloc` and `realloc` from the standard library and how to use them](#what-are-the-functions-calloc-and-realloc-from-the-standard-library-and-how-to-use-them)
-
 > ### How to use the `exit` function
 
 - The `exit()` function is a function in the `C` standard library used to terminate a program. It is declared in the `stdlib.h` header file.
