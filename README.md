@@ -7,7 +7,7 @@
 	C is FUN
 </h1>
 
->Learning C right now, been wanting to get on this. It's going to be FUN !!.
+>Learning C right now, been wanting to get on this. It's going to be FUN !!
 
 
 
