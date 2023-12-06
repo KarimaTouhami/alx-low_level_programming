@@ -75,3 +75,16 @@ In the third stage of compilation, an assembler is used to convert assembly lang
 
 ### Step 4: Linking
 The linker is an important tool in compilation that performs two tasks: resolution and relocation of symbols. It arranges the pieces of object code so that functions in one piece can successfully call functions in others. The linker also adds parts that contain the instructions for the library functions used by the program. The result of this stage is the executable file. usually `a.out` if `-o` is not specified.
+
+## Author✍️
+
+* **[Karima Touhami](https://www.linkedin.com/in/karima-touhami-5b14b4268/)** <[KarimaTouhami](https://github.com/KarimaTouhami)>
+
+## Acknowledgements 📎
+
+All the work featured in this project was undertaken as an integral part of the curriculum for the **ALX-SE** program. **ALX Africa** is a comprehensive online **full-stack software engineering program** that equips students with the necessary skills and knowledge to excel in the technology industry. The program follows a project-based approach, fostering collaborative learning among peers. By engaging in practical projects, students gain hands-on experience and develop the expertise required for a successful career in software engineering.
+
+
+
+
+ For more information, visit [this link](https://www.alxafrica.com//).
