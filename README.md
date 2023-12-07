@@ -45,7 +45,7 @@
 - [0x14](./0x14-bit_manipulation) : Bit manipulation.
 - [0x15](./0x15-file_io) : File I/O.
 - [0x16](https://github.com/KarimaTouhami/simple_shell) : Simple Shell.
-- [0x17](./0x17-doubly_linked_lists) : Doubly linked lists,
+- [0x17](./0x17-doubly_linked_lists) : Doubly linked lists.
 ----
 
 ## C Program Compilation
