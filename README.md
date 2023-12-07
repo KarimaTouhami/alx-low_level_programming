@@ -44,7 +44,7 @@
 - [0x13](./0x13-more_singly_linked_lists) : More singly linked lists.
 - [0x14](./0x14-bit_manipulation) : Bit manipulation.
 - [0x15](./0x15-file_io) : File I/O.
-- [0x17](./0x17-doubly_linked_lists) : 0x17. C - Doubly linked lists
+- [0x17](./0x17-doubly_linked_lists) : Doubly linked lists
 ----
 
 ## C Program Compilation
